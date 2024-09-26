@@ -141,7 +141,7 @@ main {
     align-items: center;
     justify-content: center;
 }
-
+/* Meetup Times section */
 #times {
     background: url("../images/dublin-city.webp") no-repeat center / cover;
     /* Handles responsivity without the need for a media query */
